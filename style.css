@@ -3,19 +3,37 @@
     padding: 0%;
     box-sizing: border-box;
 }
-.linharoxo{
+.linharoxo {
     display: flex;
     justify-content: end;
     align-items:last baseline;
     gap: 20px;
-    background-color: #cfa2ff;
+    background-color: #e6cfff;
     width: 100vw;
     height: 20vh;
 }
-.roxo{
+.roxo {
     display: flex;
-    background-color: rgb(138, 48, 255);
-    width: 8vw;
-    height: 8vw;
+    gap: 20px;
+    background-color:rgb(179, 127, 246);
+    width: 12vh;
+    height: 6vw;
+    border-radius: 50%;
+}
+.linhaverde {    
+    display: flex;
+    justify-content: end;
+    align-items:center;
+    gap: 20px;
+    background-color: #e9fdd8;
+    width: 100vw;
+    height: 20vh;
+}
+.verde {
+    display: flex;
+    gap: 20px;
+    background-color:rgb(118, 199, 118);
+    width: 12vh;
+    height: 6vw;
     border-radius: 50%;
 }
