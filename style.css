@@ -37,3 +37,22 @@
     height: 6vw;
     border-radius: 50%;
 }
+
+.linhavermelha{    
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 20px;
+    background-color: #f5bbbb;
+    width: 100vw;
+    height: 20vh;
+}
+.vermelho {
+    display: flex;
+    gap: 20px;
+    background-color:rgb(179, 96, 96);
+    width: 12vh;
+    height: 6vw;
+    border-radius: 50%;
+}
+
