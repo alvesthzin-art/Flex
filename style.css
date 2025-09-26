@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.linharoxo{
+    display: flex;
+    justify-content: end;
+    align-items:last baseline;
+    gap: 20px;
+    background-color: #cfa2ff;
+    width: 100vw;
+    height: 20vh;
+}
+.roxo{
+    display: flex;
+    background-color: rgb(138, 48, 255);
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50%;
+}
