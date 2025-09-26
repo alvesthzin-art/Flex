@@ -75,3 +75,23 @@
     border-radius: 50%;
 }
 
+.linhaazul {
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    gap: 20px;
+    background-color: #dadbff;
+    width: 100vw;
+    height: 20vh;
+}
+
+.azul{
+    display: flex;
+    gap: 20px;
+    background-color:rgb(93, 105, 203);
+    width: 12vh;
+    height: 6vw;
+    border-radius: 50%;
+}
+                
+
