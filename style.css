@@ -56,3 +56,22 @@
     border-radius: 50%;
 }
 
+.linhaamarela{    
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    gap: 20px;
+    background-color: #f9f5a7;
+    width: 100vw;
+    height: 20vh;
+}
+
+.amarelo {
+    display: flex;
+    gap: 20px;
+    background-color:rgb(215, 225, 78);
+    width: 12vh;
+    height: 6vw;
+    border-radius: 50%;
+}
+
